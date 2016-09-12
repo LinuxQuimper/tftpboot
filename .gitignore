@@ -1,3 +1,4 @@
 /menus/old-menu-2014/
 /systemes/*
+!/systemes/README.md
 !.gitkeep
